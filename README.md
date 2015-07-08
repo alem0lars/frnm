@@ -12,7 +12,3 @@ However customizing the launch step, you can perform different renames, customiz
 ## No warranty
 
 I've created this script for my daily sysadmin operations. I don't expect you use it. If you use it do at your own risk.
-
-## License
-
-This is shit! Do whatever you want with this code.
